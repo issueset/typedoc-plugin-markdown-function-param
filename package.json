@@ -1,0 +1,17 @@
+{
+  "name": "pkg-name",
+  "type": "module",
+  "version": "0.0.0",
+  "keywords": [],
+  "sideEffects": false,
+  "scripts": {
+    "build": "typedoc src/index.ts"
+  },
+  "devDependencies": {
+    "typedoc": "0.25.8",
+    "typedoc-plugin-markdown": "4.0.0-next.53",
+    "@types/node": "^20.11.14",
+    "prettier": "^3.2.4",
+    "typescript": "^5.3.3"
+  }
+}

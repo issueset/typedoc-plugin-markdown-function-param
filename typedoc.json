@@ -1,0 +1,7 @@
+{
+    "plugin": [
+        "typedoc-plugin-markdown",
+    ],
+    "useCodeBlocks": true,
+    "expandParameters": true,
+}
